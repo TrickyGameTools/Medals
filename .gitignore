@@ -7,3 +7,5 @@ Debug
 Thumbs.dp
 *.sln
 *.vcx*
+MKL_*
+*.MKL.*
