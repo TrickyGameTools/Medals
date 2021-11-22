@@ -5,3 +5,5 @@ Debug
 .DS_Store
 ._*
 Thumbs.dp
+*.sln
+*.vcx*
